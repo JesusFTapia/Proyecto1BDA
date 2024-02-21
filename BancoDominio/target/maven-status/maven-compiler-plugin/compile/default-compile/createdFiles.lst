@@ -1,0 +1,8 @@
+com\mycompany\bancodominio\pojo\Retiro.class
+com\mycompany\bancodominio\pojo\Direccion.class
+com\mycompany\bancodominio\dto\ClienteDTO.class
+com\mycompany\bancodominio\pojo\Cliente.class
+com\mycompany\bancodominio\dto\TransferenciaDTO.class
+com\mycompany\bancodominio\pojo\Transferencia.class
+com\mycompany\bancodominio\dto\DireccionDTO.class
+com\mycompany\bancodominio\pojo\Cuenta.class
